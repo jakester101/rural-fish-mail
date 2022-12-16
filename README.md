@@ -14,13 +14,13 @@ git clone git@github.com:jakester101/rural-fish-mail.git
 
 ## Usage
 
-This project deploys as an (HTML website)[https://jakester101.github.io/rural-fish-mail]
+This project deploys as an [HTML website]([https://jakester101.github.io/rural-fish-mail])
 
 ![alt text](assets/screenshot.png)
 
 ## Credits
-<p>[Xander Rapstine](https://github.com/Xandromus)<br>
-[Jacob Hester](https://github.com/jakester101)</p>
+[Xander Rapstine](https://github.com/Xandromus)<br>
+[Jacob Hester](https://github.com/jakester101)
 
 
 ---
